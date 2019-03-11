@@ -1,2 +1,3 @@
-# rsschool-2019Q1-html-css
-RS_JS
+Sergey Shkred 
+HTML CSS Basics: https://www.codecademy.com/users/znakx/achievements
+
